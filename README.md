@@ -4,7 +4,7 @@
 <h3 align="center">Sysadmin & DevOps Enthusiast | Future Multiplatform App Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&center=true&vCenter=true&width=435&lines=Sysadmin+%2F+DevOps+Lover;Infrastructure+as+Code+Fan;Always+Learnin[...] 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&center=true&vCenter=true&width=435&lines=Sysadmin+%2F+DevOps+Lover;Infrastructure+as+Code+Fan;Always+Learning+%F0%9F%92%BB;Let%E2%80%99s+build+something+awesome!" alt="Typing SVG" />
 </p>
 
 ---
@@ -18,7 +18,6 @@
 - 💬 ¡Pregúntame sobre Docker, Kubernetes, Sysadmin, SQL, o cualquier cosa de infraestructuras!
 - 📈 Experiencia trabajando con la metodología **SCRUM**
 - 🏡 Preferencia: **Trabajo en remoto**, pero también puedo trabajar de forma presencial o híbrida
-
 ---
 
 ### 🧰 Tech Stack & Tools
